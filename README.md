@@ -1,5 +1,7 @@
 # House_Sales_Analysis
 *House Sales in King County, USA project on Data Analysis using python*
+
+
 In this project, you will analyse and predict housing prices using attributes or features such as square footage, number of bedrooms, number of floors and so on
 
 id :a notation for a house
